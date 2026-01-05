@@ -1,2 +1,2 @@
 # web-development
-Author - Manisha Goswami
+Author - Manisha goswami
